@@ -1,0 +1,10 @@
+c comentario
+c comentario
+c comentario
+c comentario
+n 5
+d 3
+d 5
+d 7
+d 8 
+d 10
