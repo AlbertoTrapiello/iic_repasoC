@@ -1,0 +1,12 @@
+c ejemplo elemental de formato DIMACS 
+c grafos simple no dirigido con 4 vertices y 5 aristas
+c autor: pablo san segundo
+c fecha: 22/2/2016
+c 
+
+p edge 4 5
+e 1 2
+e 1 3
+e 1 4
+e 2 3
+e 2 4
