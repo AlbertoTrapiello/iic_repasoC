@@ -1,0 +1,4 @@
+TAREA-Informática Industrial y Comunicaciones 2018
+Válido para punto extra de clase
+
+Para el grafo brock200_1.clq  en esta carpeta, determine el mayor conjunto de vértices tales que todos están conectados todos con todos.
