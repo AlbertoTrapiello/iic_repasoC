@@ -1,5 +1,5 @@
 TAREA-Informática Industrial y Comunicaciones 2018
 Válido para punto extra de clase
 
-TAREA-1: Añada funcionalidad tipica de grafos: conteo del número de vértices y aristas, indicador de si un vértice es vecino de otro, liberar memoria de manera adecuada.
+TAREA-1: Implemente funcionalidad típica de grafos: conteo del número de vértices y aristas, indicador de si un vértice es vecino de otro, liberar memoria de manera adecuada.
 TAREA-2: Para el grafo brock200_1.clq  en esta carpeta, determine el mayor conjunto de vértices tales que todos están conectados todos con todos.
